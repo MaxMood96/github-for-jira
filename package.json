@@ -23,7 +23,7 @@
     "axios": "^0.21.1",
     "body-parser": "^1.18.3",
     "bottleneck": "^2.19.5",
-    "bull": "^3.12.1",
+    "bull": "^3.27.0",
     "bunyan-sentry-stream": "^1.2.1",
     "cookie-session": "^2.0.0-rc.1",
     "csurf": "^1.11.0",
